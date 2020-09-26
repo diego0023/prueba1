@@ -16,6 +16,10 @@ public class Ejemplo_github {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        int a;
+        int b;
+        
+      
     }
     
 }
